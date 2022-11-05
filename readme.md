@@ -2,6 +2,9 @@
 
 - This is a Word Count app.
 
+[Netlify](https://wordcountapp-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
 
 ![Word Count](/images/without.png)
 
